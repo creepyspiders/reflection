@@ -1,0 +1,6 @@
+How is the staging area different from the 
+working directory and the repository? What value 
+do you think it offers?
+
+It offers flexibility whether you want to store the status of 1 fils or multiple files. in case you are working on a large project contains 100 files, when you make a few changes to some of the file, you can just commit these files instead of 
+the whole repository
