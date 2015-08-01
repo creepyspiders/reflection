@@ -1,0 +1,37 @@
+knowing the differences can make you realize what you have changed
+if there is a problem introduced with the into of a new change
+you can easily spot out the mistake.
+it's also helpful for you to keep track of the old file. maybe the 
+old file contains something valuable, with the new change you may 
+lost it and never gonna get it back.
+
+knowing the entire history of a file, may make you realize how you 
+get where you are today, what kind of mistakes you have made when you 
+look back of the history.it also give you confidence that you can 
+accomplish so much more with the time passed by.
+
+the pros are the changes are usually logically meaningful.the down turn 
+is that is hard to judge when to commit mentally and pysically. 
+because sometimes you dont know whether you should commit or not. and some
+times you simply forget. 
+
+the reason why git allow multiple files tracking is the nature of coding is 
+usually involves making changes to multiple fils in order to achieve one 
+logical goal, while in other editors like google docs is usually much more
+independent between files. you usually dont have to change all the fils 
+simutaneously to acheieve a goal.
+
+how to use commands git diff and git log
+you can use git log to view all the commits or histories of your file. 
+press q to log out from the history.
+press git diff id1 id2 to view the differences. the older id should be the first
+git diff older_id newer_id
+this will give you the differences between two comments where
+red is the deleted comments
+green is the new insertion for the comments.
+
+it definitely make me more confident to try some bold ideas, because even 
+i messed up the entire code, and it totally cannot run, i still got the 
+whole previous version on my back, if the new idea is working, i can just 
+commit it. so it will  be very easy to get back in the future.
+
