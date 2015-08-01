@@ -20,3 +20,8 @@ if you do it in you official master branch, you will mess
 up the history of the development thus make it difficult 
 for other people to understand. branch enable you make another
 version of the program while keeping the original verison.
+
+How do the diagrams help you visualize the branch structure?
+
+it can make me clear when does the program split up. what kind
+of features of each branch have or dont have.
