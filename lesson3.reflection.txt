@@ -10,3 +10,13 @@ all the small changes and once the logical change is
 achieved, you can then move all the staging area to 
 a fomal commit area where all other people can see and 
 understand you code.
+
+What are some situations when branches would be helpful
+in keeping your history organized? How would branches help?
+
+the branches are helpful when you wanna experiment an 
+feature while this feature is away from the official goal
+if you do it in you official master branch, you will mess
+up the history of the development thus make it difficult 
+for other people to understand. branch enable you make another
+version of the program while keeping the original verison.
