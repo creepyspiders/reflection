@@ -1,0 +1,12 @@
+How can you use the staging area to make sure you have 
+one commit per logical change?
+
+the staging area is a buffer area between working 
+directory and the commit area. the commit is meant
+for per logical change, but in the meantime, you will
+still need to store you small changes in order to finish
+the logical change. the staging area is for you to store
+all the small changes and once the logical change is 
+achieved, you can then move all the staging area to 
+a fomal commit area where all other people can see and 
+understand you code.
