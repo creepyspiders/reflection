@@ -6,3 +6,5 @@ rather than having Git automatically stay up-to-date
 with your remote repository?
 
 no idea.
+
+trying to add password cache to the git bash
