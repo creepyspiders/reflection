@@ -1,0 +1,8 @@
+this is very intresting. so very very useful concept to allow collabrating just than pass the fils
+directly. 
+
+Why might you want to always pull changes manually
+rather than having Git automatically stay up-to-date
+with your remote repository?
+
+no idea.
