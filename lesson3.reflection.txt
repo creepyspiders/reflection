@@ -25,3 +25,16 @@ How do the diagrams help you visualize the branch structure?
 
 it can make me clear when does the program split up. what kind
 of features of each branch have or dont have.
+
+
+What are the pros and cons of Git’s automatic merging vs
+. always doing merges manually?
+
+the pros of automatic merging is that it is fast and
+efficient, the programer doesn't need to go through 
+the whole codes in order to make the merging.which is 
+really good for big projects involving thousands of 
+codes.
+the cons is that it may not create a confilct and may
+create logical errors where the additon of two pieces 
+of code may not be able to work together.
