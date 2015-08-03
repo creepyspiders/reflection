@@ -8,3 +8,20 @@ with your remote repository?
 no idea.
 
 trying to add password cache to the git bash
+
+Describe the differences between forks, clones, and
+branches. When would you use one instead of another?
+
+clone is to copy the entire repository without reference
+to the origin of the copying. and it is done locally on
+you own machine or between the web and your own machine.
+branches is what you do with you commit history.you can 
+modify the project according to your own preferences
+forks is copy others repository via GitHub keeping the
+track of the original creator.
+
+when you callabrate with someone, you want to fork their
+work, and when you do something on you own, you may
+clone the repository to your machine. and when you make 
+the changes to repository or experimental features. you 
+want to branch your commit history.
