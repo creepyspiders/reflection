@@ -33,3 +33,14 @@ it's the label where you left the remote repository. so
 Github will know your position and guide you where to 
 catch up. so everybody in the repository can have a sync 
 with each other and achieve the same goal.
+
+How would you collaborate without using Git or GitHub? 
+What would be easier, and what would be harder?
+without git hub, callabration will be only via messages, 
+calls showing other people what you have changed, or maybe
+there is a manger guiding different people doing different 
+things. while using github you can automatically callabrate 
+with people without concerning other people not understanding
+your code, in this way, it becomes toally fluent in order
+to collabrate. everybody is understood by the difference of
+the code and comments they give.
