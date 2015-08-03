@@ -25,3 +25,11 @@ work, and when you do something on you own, you may
 clone the repository to your machine. and when you make 
 the changes to repository or experimental features. you 
 want to branch your commit history.
+
+What is the benefit of having a copy of the last known 
+state of the remote stored locally?
+
+it's the label where you left the remote repository. so 
+Github will know your position and guide you where to 
+catch up. so everybody in the repository can have a sync 
+with each other and achieve the same goal.
